@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangzixin1940
 - 👀 I’m interested in Python,Java
-- 🌱 I’m currently learning Pythpn
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: Wu Xing
 - ⚡ Fun fact: I am a primary school student,in Grade 5(Year 2024).I am a Chinese.And I like playing VMs
 
